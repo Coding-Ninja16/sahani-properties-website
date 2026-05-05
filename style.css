@@ -3,14 +3,14 @@
    ========================================================================== */
    :root {
     /* Colors */
-    --primary: #002147; /* Dark Blue */
-    --primary-light: #003366;
-    --primary-dark: #001122;
+    --primary: #004d40; /* Emerald Green */
+    --primary-light: #00695c;
+    --primary-dark: #00332e;
     --accent: #C5A059; /* Gold */
     --accent-hover: #b08d4b;
-    --text-main: #333333;
-    --text-light: #666666;
-    --bg-light: #F8F9FA;
+    --text-main: #2c3e50;
+    --text-light: #5a6c7d;
+    --bg-light: #f4f7f6;
     --bg-white: #FFFFFF;
     --whatsapp: #25D366;
     
